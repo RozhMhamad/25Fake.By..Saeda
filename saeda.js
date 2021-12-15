@@ -1,4 +1,4 @@
-//25online : by:saeda
+//25online : by:vortex
 const Discord = require("discord.js");
 const Canvas = require("canvas");
 const fs = require("fs");
@@ -721,18 +721,18 @@ message.member.voiceChannel
 
 ///تۆکین لێرە دانێ
 
-client.login("");
-client2.login("");
-client3.login("");
-client4.login("");
-client5.login("");
-client6.login("");
-client7.login("");
-client8.login("");
-client9.login("")
-client10.login("");
-client11.login("");
-client12.login("");
+client.login("OTEzNDUyOTc4NzM4OTYyNDQy.YajdMw.SI7sXl66yYc0E1mXSpRnf2fjNCg");
+client2.login("OTEzNDU4MDUyMTUyMzExODY5.YajdeA.Jss6Br9pMVkHZJc9q_0vMinG9zs");
+client3.login("OTEzNDU5MDE3NjAxMzk2Nzc2.YajdkQ.uluSlwYXUD3aZ0Ehf2TShdbcGkE");
+client4.login("OTExMTc0NTYzNDQ5MTY3ODcy.YajdqQ.8kBq26rOaG79hEmtMyStmBijdVI");
+client5.login("OTE1MjQ1NjE5NzU1NDkxMzY5.Yajdww.4_ykGr477pQYHfMF6JfBahKJyeo");
+client6.login("OTE1OTc3NjcyNzIxNTgwMDgz.Yajd2w.j7dkOc2Jxh5PPt1lvB3oZ6Hy__c");
+client7.login("OTE1OTgwNzAzOTg3MDIzOTYz.Yajf2A.SVCZY0bVIDonggkhzUHQ9Q1vPfc");
+client8.login("OTE1OTg0NjkxNDA2OTk1NDU2.YajjmQ.DAedyQ2h6fHyEZFoNZZ7uFf6xJ0");
+client9.login("OTE1OTg1NzYxNjI5Nzk0MzQ0.YajkwA.hr5PXWIYTbPp2s2Bc-k7LadH328");
+client10.login("OTE1OTg3MjYxMzk1NDU2MDAw.Yajm2Q.y7FD8FkxHlVDl28gPonEi_LOtwo");
+client11.login("OTE2MjQzOTQ0NDM2NzkzMzQ0.YanVbQ.XX8XX_zsB0681gOeiRTOuyrIS2c");
+client12.login("OTE2MjgzMzA3NzQ0OTg1MDk5.Yan7dA.Id2Nr7RN-M-G1Zy_aa2QAvunUiM");
 client13.login("");
 client14.login("");
 client15.login("");
